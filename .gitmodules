@@ -1,0 +1,4 @@
+[submodule "baseball"]
+	path = baseball
+	url = https://github.com/ccconac/javascript-baseball-6
+	branch = ccconac
