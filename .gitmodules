@@ -10,3 +10,7 @@
 	path = lotto
 	url = https://github.com/ccconac/javascript-lotto-6
 	branch = ccconac
+[submodule "christmas"]
+	path = christmas
+	url = https://github.com/ccconac/javascript-christmas-6-ccconac
+	branch = main
