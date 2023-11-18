@@ -6,3 +6,7 @@
 	path = racingcar
 	url = https://github.com/ccconac/javascript-racingcar-6
 	branch = ccconac
+[submodule "lotto"]
+	path = lotto
+	url = https://github.com/ccconac/javascript-lotto-6
+	branch = ccconac
