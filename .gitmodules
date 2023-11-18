@@ -2,3 +2,7 @@
 	path = baseball
 	url = https://github.com/ccconac/javascript-baseball-6
 	branch = ccconac
+[submodule "racingcar"]
+	path = racingcar
+	url = https://github.com/ccconac/javascript-racingcar-6
+	branch = ccconac
