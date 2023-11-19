@@ -1,16 +1,16 @@
 [submodule "baseball"]
-	path = baseball
+	path = mission-6/baseball
 	url = https://github.com/ccconac/javascript-baseball-6
 	branch = ccconac
 [submodule "racingcar"]
-	path = racingcar
+	path = mission-6/racingcar
 	url = https://github.com/ccconac/javascript-racingcar-6
 	branch = ccconac
 [submodule "lotto"]
-	path = lotto
+	path = mission-6/lotto
 	url = https://github.com/ccconac/javascript-lotto-6
 	branch = ccconac
 [submodule "christmas"]
-	path = christmas
+	path = mission-6/christmas
 	url = https://github.com/ccconac/javascript-christmas-6-ccconac
 	branch = main
